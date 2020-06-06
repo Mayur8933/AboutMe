@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mayur Patil</string>
+    <string name="yellow_star">Yellow</string>
+    <string name="bio">Hi, My name is Mayur.
+\n\n I live in Dhule,maharashtra.
+\n\n I like to play cricket with my friends.
+\n\n I like to listen music.
+\n\n I like spending time with my family and friends.
+\n\n I am studying in 2nd year of my computer engineering course.
+\n\n Recently I started learning android development course online.
+\n\n I like to learn new things related to technologies and computer science.
+\n\n
+
+    </string>
+    <string name="what_is_your_nickname">What is your nick name?</string>
+    <string name="done">Done</string>
+</resources>
